@@ -11,4 +11,4 @@ Dadurch über 20 Stellen möglich ohne ewig auf die Ergebnisse warten zu müssen
 **Mit Parallel.For Methode (Nutzt alle Kerne des Prozessors)** 
 Mein schnellstes Brute Force Programm für über 20 Stellen.
 
-Ps: Mit **Mail versandt** der gefundenen Primzahl wenn Zeile 127 Aktiviert wird. ( wegnehmen von: // )
+Ps: Mit **Mail versandt** der gefundenen Primzahl wenn Zeile 125 Aktiviert wird. ( wegnehmen von: // )
