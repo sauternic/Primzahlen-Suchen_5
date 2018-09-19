@@ -12,3 +12,5 @@ Dadurch über 20 Stellen möglich ohne ewig auf die Ergebnisse warten zu müssen
 Mein schnellstes Brute Force Programm für über 20 Stellen.
 
 Ps: Mit **Mail versandt** der gefundenen Primzahl wenn Zeile 125 Aktiviert wird. ( wegnehmen von: // )
+
+[Website for primes ... up to 16 digits](https://sauternic.github.io/JavaScript_Primzahlen_Auflisten/)
